@@ -343,6 +343,13 @@ The application will be accessible on `http://localhost:8080`. Note that this se
 
 ---
 
+## 🚀 One-Click Deploy
+
+<a href="https://repocloud.io/details/GitHub%20Release%20Monitor/"><img src="https://d16t0pc4846x52.cloudfront.net/deploylobe.svg" alt="Deploy on RepoCloud" height="42"></a>
+<a href="https://railway.com/deploy/github-release-monitor"><img src="https://railway.com/button.svg" alt="Deploy on Railway" height="42"></a>
+
+---
+
 ## 🛠️ Setup Guide (Manual)
 
 Follow these steps for a manual setup of the GitHub Release Monitor.
